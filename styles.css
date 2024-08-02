@@ -53,6 +53,21 @@ nav ul li a:hover {
     color: #ccd6f6;
 }
 
+nav .social-links {
+    display: flex;
+}
+
+nav .social-links a {
+    margin-left: 15px;
+    color: #64ffda;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+nav .social-links a:hover {
+    color: #ccd6f6;
+}
+
 .hero {
     height: 100vh;
     display: flex;
